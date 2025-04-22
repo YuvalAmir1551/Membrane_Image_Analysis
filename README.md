@@ -34,30 +34,6 @@ This project consists of two main parts:
 
 ---
 
-## Project Structure
-
-Membrane_Image_Analysis/
-├── src/
-│   └── membrane_image_analysis.py
-├── docs/
-│   └── membrane_analysis_report.pdf
-├── examples/
-│   ├── seq_000.jpg...seq_009.jpg
-│   ├── seq_000_detected.jpg...seq_009_detected.jpg
-│	└── tracking_table.md
-├── img/
-│   ├── frame1.png
-│	├── frame2.png
-│	├── frame3.png
-│	├── camera.jpg
-│	└── membrane.jpg
-├── main.py
-├── .gitignore
-├── requirements.txt
-└── README.md
-
----
-
 ## Installation
 
 1. **Clone the repository**  
