@@ -1,8 +1,7 @@
 # Membrane Image Analysis
 
-**Yuval Amir**  
-
 ---
+
 ## Project Description
 
 Detect colored markers on a membrane filmed through varying water clarity.The camera is mounted above a water tank, capturing the membrane at the bottom under different turbidity levels. As water quality degrades, colored circular markers appear differently and must be accurately identified and tracked.
