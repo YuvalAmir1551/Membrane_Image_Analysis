@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# System files
+.DS_Store
+*.log
