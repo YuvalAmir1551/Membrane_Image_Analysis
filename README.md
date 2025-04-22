@@ -5,15 +5,18 @@
 ---
 ## Project Description
 
-Submission date: March 8, 2025Objective: Detect colored markers on a membrane filmed through varying water clarity.The camera is mounted above a water tank, capturing the membrane at the bottom under different turbidity levels. As water quality degrades, colored circular markers appear differently and must be accurately identified and tracked.
+Detect colored markers on a membrane filmed through varying water clarity.The camera is mounted above a water tank, capturing the membrane at the bottom under different turbidity levels. As water quality degrades, colored circular markers appear differently and must be accurately identified and tracked.
 
 **Camera setup:** 
+
 <img src="img/camera.jpg" alt="Camera mounted above the tank" width="300"/>  
 
 **Membrane out of water:** 
+
 <img src="img/membrane.jpg" alt="Membrane out of water" width="300"/>  
 
 **Sample frames:**
+
 <img src="img/frame1.jpg" alt="Sample frame 1" width="300"/>  
 <img src="img/frame2.jpg" alt="Sample frame 2" width="300"/> 
 <img src="img/frame3.jpg" alt="Sample frame 3" width="300"/>  
@@ -101,7 +104,7 @@ Run the analysis via the provided main.py script.
 #### Single-frame detection
 
 <img src="examples/seq_000.jpg" alt="Input image" width="300"/>  
-<img src="examples/seq_000_detected.png" alt="Detected circles" width="300"/>
+<img src="examples/seq_000_detected.jpg" alt="Detected circles" width="300"/>
 
 #### Tracking output (Markdown table)
 
@@ -113,15 +116,3 @@ Run the analysis via the provided main.py script.
 |  1    |     4     |  1843|  145 |   78   | yellow |
 |  1    |     5     |  54  |  837 |   74   | black  |
 |  1    |     6     |  870 |  17  |   72   | black  |
-|  2    |     1     |  458 |  419 |   80   | blue   |
-|  2    |     2     |  1427|  556 |   76   | red    |
-|  2    |     3     |  1008|  974 |   78   | yellow |
-|  2    |     4     |  1843|  146 |   79   | yellow |
-|  2    |     5     |  52  |  835 |   72   | black  |
-|  2    |     6     |  874 |  13  |   71   | black  |
-|  3    |     1     |  453 |  460 |   79   | blue   |
-|  3    |     2     |  1423|  599 |   77   | red    |
-|  3    |     3     |  1003|  1014|   79   | yellow |
-|  3    |     4     |  1838|  180 |   83   | yellow |
-|  3    |     5     |  48  |  879 |   70   | black  |
-|  3    |     6     |  865 |  43  |   73   | black  |
